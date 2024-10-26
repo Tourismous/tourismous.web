@@ -11,7 +11,7 @@
 	<Header />
 	<div class="flex flex-col gap-16 flex-1 items-center justify-center">
 		<h2
-			class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl max-w-[1200px] mx-auto w-full text-center font-bold"
+			class="text-6xl sm:text-7xl md:text-8xl lg:text-9xl max-w-[1200px] mx-auto w-full text-center font-bold"
 		>
 			<span>touris</span><span class="text-yellow-300">mous</span>
 		</h2>
@@ -21,5 +21,5 @@
 		</p>
 		<CtAs />
 	</div>
-	<Project />
+
 </SectionWrapper>
