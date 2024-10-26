@@ -16,8 +16,7 @@
 			<span>touris</span><span class="text-yellow-300">mous</span>
 		</h2>
 		<p class="text-lg sm:text-xl md:text-2xl text-center max-w-[800px] mx-auto w-full">
-			A team of devs building racing related software. We aim to provide applications, tools, data
-			analytics, and community support to enhance your racing experience.
+			A team of devs building racing related software.
 		</p>
 		<CtAs />
 	</div>
