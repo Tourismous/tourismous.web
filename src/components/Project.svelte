@@ -12,21 +12,21 @@
 			title: 'TrackNow',
 			description: 'A social media feed focusing on simracing and motorsports.',
 			status: 'In Development',
-			logo: 'src/img/2.png',
+			logo: '/img/2.png',
 			link: 'https://github.com/vantage-ola/tracknow'
 		},
 		{
 			title: 'TrackNow Pro',
 			description: 'TrackNow, but with enhanced features for a premium experience.',
 			status: 'Planning',
-			logo: 'src/img/3.png'
+			logo: '/img/3.png'
 		},
 		{
 			title: 'The Weather Render',
 			description:
 				'A software that fetches real-time weather data and integrates it into sim racing platforms for an authentic experience.',
 			status: 'Concept',
-			logo: 'src/img/1.png'
+			logo: '/img/1.png'
 		}
 	];
 </script>
