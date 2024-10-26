@@ -18,7 +18,7 @@
 			<a href="https://github.com/Tourismous" target="_blank" class="duration-200 hover:text-yellow-300 cursor-pointer">Github</a>
 			<a href="#about" class="duration-200 hover:text-yellow-300 cursor-pointer">About</a>
 			<a href="#faqs" class="duration-200 hover:text-yellow-300 cursor-pointer">FAQs</a>
-			<a href="ko-fi.com/tourismousteam" target="_blank" class="duration-200 hover:text-yellow-300 cursor-pointer">Donations</a>
+			<a href="https://ko-fi.com/tourismousteam" target="_blank" class="duration-200 hover:text-yellow-300 cursor-pointer">Donations</a>
 		</nav>
 	</div>
 </header>

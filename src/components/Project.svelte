@@ -34,7 +34,7 @@
 
 <section class="py-24 md:py-32">
 	<div class="container mx-auto px-4">
-		<h2 class="text-3xl font-bold text-center mb-16">Our Projects</h2>
+		<h2 class="text-5xl font-semibold text-center mb-16">Our Projects</h2>
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 			{#each projects as project (project.title)}
 				{#if project.link}
