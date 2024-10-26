@@ -5,7 +5,7 @@
 <SectionWrapper id="about">
     <div class=" mt-12 flex flex-col gap-16 items-center justify-center max-w-[1200px] mx-auto w-full">
 
-            <h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-center font-semibold">
+            <h2 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-center font-semibold ">
                 One Line of  <span class="text-yellow-300">Code</span> at a Time
             </h2>
 
@@ -46,3 +46,10 @@
         </div>
     </div>
 </SectionWrapper>
+
+<style>
+    @keyframes glow-shift {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 0.4; }
+    }
+  </style>
